@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headBar img{
+    padding-right:0px;
+}
+
+.headBar ul li {
+    padding: 20px ;
+}
+
+.headBar ul li:hover{
+    background-color: aqua;
+}
+
+#imageOntop2{
+    padding-bottom: 23px;
+}
+.onTop{
+    margin-top:10px ;
+}
+
+.shop{
+    margin-top:50px ;
+}
+
+@media only screen and (max-width: 600px) {
+    #imageOntop2{
+        padding-bottom: 5px;
+    }
+}
